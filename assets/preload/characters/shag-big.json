@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				106,
+				80
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "shag bigdick left"
+		},
+		{
+			"offsets": [
+				25,
+				120
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "shag bigdick up"
+		},
+		{
+			"offsets": [
+				1,
+				81
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "shag bigdick right"
+		},
+		{
+			"offsets": [
+				40,
+				80
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "shag bigdick idle"
+		},
+		{
+			"offsets": [
+				67,
+				50
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "shag bigdick down"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				17,
+				147
+			],
+			"anim": "lol",
+			"fps": 24,
+			"name": "shag bigdick lol",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/shag-big",
+	"position": [
+		-830,
+		-320
+	],
+	"healthicon": "shag",
+	"flip_x": false,
+	"healthbar_colors": [
+		48,
+		48,
+		48
+	],
+	"camera_position": [
+		20,
+		40
+	],
+	"sing_duration": 9.99999999999999,
+	"scale": 1.1
+}

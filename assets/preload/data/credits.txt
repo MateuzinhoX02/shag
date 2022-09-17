@@ -1,0 +1,4 @@
+Mod Crew
+d4rkwinged::d4rkwinged::Mod director, Composer, Coder.::https://twitter.com/d4rk_winged::0xFFCD5C5C
+juztexd::juztexd::Sprite and UI Artist::https://twitter.com/juztexd::0xFFEBA834
+billfox::fox::BG Artist::https://www.youtube.com/c/BillFoxAnimationAndModes::0xFF87CEFA
